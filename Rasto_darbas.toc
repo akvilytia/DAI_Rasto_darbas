@@ -1,0 +1,56 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {lithuanian}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}\IeC {\k I}vadas}{2}{section.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}Kaip apibr\IeC {\.e}\IeC {\v z}iamas suaugusi\IeC {\k u}j\IeC {\k u} mokymasis ir kam jis reikalingas?}{2}{subsection.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{2}{section*.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{2}{section*.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{3}{section*.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{3}{section*.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Suaugusi\IeC {\k u}j\IeC {\k u} mokymasis Lietuvoje}{4}{section.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Suaugusi\IeC {\k u}j\IeC {\k u} mokymosi Lietuvoje vertinimas ir progresas Europos kontekste}{4}{subsection.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{4}{figure.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{5}{section*.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{5}{section*.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Suaugusi\IeC {\k u}j\IeC {\k u} mokymosi Lietuvoje ypatumai ir galimyb\IeC {\.e}s}{6}{subsection.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{6}{section*.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{6}{section*.10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{7}{section*.11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{8}{figure.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{8}{section*.13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Suaugusi\IeC {\k u}j\IeC {\k u} mokymosi ir ekonomikos ry\IeC {\v s}ys}{10}{section.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Kaip suaugusi\IeC {\k u}j\IeC {\k u} mokymasis yra susij\IeC {\k e}s su ekonomika?}{10}{subsection.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{10}{section*.14}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Ar suaugusi\IeC {\k u}j\IeC {\k u} mokymasis gal\IeC {\.e}t\IeC {\k u} darti tiesiogin\IeC {\k e} \IeC {\k i}tak\IeC {\k a} Lietuvos valstyb\IeC {\.e}s ekonomikos gerinimui?}{10}{subsection.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{10}{section*.15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{11}{section*.16}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{11}{section*.17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{11}{section*.18}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}I\IeC {\v s}vados}{12}{section.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{12}{section*.19}% 

@@ -1,0 +1,14 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'Rasto_darbas.blg'
+[50] biber-MSWIN32:315> INFO - === 
+[87] Biber.pm:371> INFO - Reading 'Rasto_darbas.bcf'
+[215] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[232] Biber.pm:4093> INFO - Processing section 0
+[252] Biber.pm:4254> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[257] bibtex.pm:1523> INFO - LaTeX decoding ...
+[273] bibtex.pm:1340> INFO - Found BibTeX data source 'bibliography.bib'
+[376] UCollate.pm:68> INFO - Overriding locale 'lt-LT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[376] UCollate.pm:68> INFO - Overriding locale 'lt-LT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[376] Biber.pm:3921> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'lt-LT'
+[396] bbl.pm:636> INFO - Writing 'Rasto_darbas.bbl' with encoding 'UTF-8'
+[407] bbl.pm:739> INFO - Output to Rasto_darbas.bbl

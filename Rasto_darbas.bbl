@@ -1,0 +1,412 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{aleknaite2014lietuvos}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=48e94251fa0cfcb065dd0627ac0b849e}{%
+           family={Aleknait{ė}-Bieliauskien{ė}},
+           familyi={A\bibinithyphendelim B\bibinitperiod},
+           given={Rita},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{48e94251fa0cfcb065dd0627ac0b849e}
+      \strng{fullhash}{48e94251fa0cfcb065dd0627ac0b849e}
+      \strng{bibnamehash}{48e94251fa0cfcb065dd0627ac0b849e}
+      \strng{authorbibnamehash}{48e94251fa0cfcb065dd0627ac0b849e}
+      \strng{authornamehash}{48e94251fa0cfcb065dd0627ac0b849e}
+      \strng{authorfullhash}{48e94251fa0cfcb065dd0627ac0b849e}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lietuvos suaugusi{ų}j{ų} ugdymo sistemos ypatumai}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+    \entry{bonjean_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=688583195ff1366aa5cb1faab52835ed}{%
+           family={BONJEAN},
+           familyi={B\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{688583195ff1366aa5cb1faab52835ed}
+      \strng{fullhash}{688583195ff1366aa5cb1faab52835ed}
+      \strng{bibnamehash}{688583195ff1366aa5cb1faab52835ed}
+      \strng{authorbibnamehash}{688583195ff1366aa5cb1faab52835ed}
+      \strng{authornamehash}{688583195ff1366aa5cb1faab52835ed}
+      \strng{authorfullhash}{688583195ff1366aa5cb1faab52835ed}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{EU policy in the field of adult learning}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://ec.europa.eu/education/policies/eu-policy-in-the-field-of-adult-learning_lt
+      \endverb
+      \verb{url}
+      \verb https://ec.europa.eu/education/policies/eu-policy-in-the-field-of-adult-learning_lt
+      \endverb
+    \endentry
+    \entry{jakvstiene2013uvzimtumka}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5dd5710bd1408b56bdd3128db3471a26}{%
+           family={Jak{š}tien{ė}},
+           familyi={J\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {BMK leidykla}%
+      }
+      \strng{namehash}{5dd5710bd1408b56bdd3128db3471a26}
+      \strng{fullhash}{5dd5710bd1408b56bdd3128db3471a26}
+      \strng{bibnamehash}{5dd5710bd1408b56bdd3128db3471a26}
+      \strng{authorbibnamehash}{5dd5710bd1408b56bdd3128db3471a26}
+      \strng{authornamehash}{5dd5710bd1408b56bdd3128db3471a26}
+      \strng{authorfullhash}{5dd5710bd1408b56bdd3128db3471a26}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ekonomika ir vadyba: aktualijos ir perspektyvos: mokslo darbai}
+      \field{number}{3}
+      \field{title}{U{ž}imtum{ą} lemian{č}i{ų} mikroekonomini{ų} ir makroekonomini{ų} veiksni{ų} modelis}
+      \field{year}{2013}
+      \true{nocite}
+      \field{pages}{160\bibrangedash 168}
+      \range{pages}{9}
+    \endentry
+    \entry{kvieskiene2016suaugusikujku}{article}{}
+      \name{author}{9}{}{%
+        {{uniquename=0,uniquepart=base,hash=bf5b9c30d11b483cb2038662d6667677}{%
+           family={Kvieskien{ė}},
+           familyi={K\bibinitperiod},
+           given={Giedr{ė}},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7db6f1b52acf6b78c765b0a56b3439bf}{%
+           family={Mi{š}kinien{ė}},
+           familyi={M\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=840dab90c10ded470c499a0d9627c07f}{%
+           family={{Ž}inaityt{ė}},
+           familyi={Ž\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=03c5ae6d2ab21afef59fd796d810634a}{%
+           family={Mulerkien{ė}},
+           familyi={M\bibinitperiod},
+           given={Ilona},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fece41ff6f974eb066dd43c15505ea90}{%
+           family={Urbonavi{č}ien{ė}},
+           familyi={U\bibinitperiod},
+           given={Biruta},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3baf47f9f57bb0605545bee0e6b901e3}{%
+           family={Papikait{ė}},
+           familyi={P\bibinitperiod},
+           given={Edita},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=18e008ff72307de3af7df416840be7d9}{%
+           family={Jere{š}i{ū}nas},
+           familyi={J\bibinitperiod},
+           given={Andrejus},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e7225ebe1216a6eddfad95ddc8a06f09}{%
+           family={Makauskien{ė}},
+           familyi={M\bibinitperiod},
+           given={J{ū}rat{ė}},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fb440747afd31e9d2915761e2e31f099}{%
+           family={Kvieska},
+           familyi={K\bibinitperiod},
+           given={Vytautas},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {[Lietuvos demokrati{š}kumo ugdymo kolegija]}%
+      }
+      \strng{namehash}{65a2268868481a81346b5503be6149db}
+      \strng{fullhash}{26260db29042492807295c3e5e45c9b9}
+      \strng{bibnamehash}{dc233447abc707073a8905dda0fc95d6}
+      \strng{authorbibnamehash}{dc233447abc707073a8905dda0fc95d6}
+      \strng{authornamehash}{65a2268868481a81346b5503be6149db}
+      \strng{authorfullhash}{26260db29042492807295c3e5e45c9b9}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Suaugusi{ų}j{ų} mokymosi organizavimo ypatumai: efektyviausi{ų} sprendim{ų} paie{š}kos [elektroninis i{š}teklius]:[Lietuvos atstov{ų} atsiliepimai apie tarptautin{ę} ateities {š}vietimo i{š}{š}{ū}ki{ų} konferencij{ą} „World learning summit 2016 “: 2016 m. bir{ž}elio 14-16 d., Kristiansandas, Norvegija]}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{melnikova2012kokybivsko}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=ece07802b06bae2b49dff4563c8f06cb}{%
+           family={Melnikova},
+           familyi={M\bibinitperiod},
+           given={Julija},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ece07802b06bae2b49dff4563c8f06cb}
+      \strng{fullhash}{ece07802b06bae2b49dff4563c8f06cb}
+      \strng{bibnamehash}{ece07802b06bae2b49dff4563c8f06cb}
+      \strng{authorbibnamehash}{ece07802b06bae2b49dff4563c8f06cb}
+      \strng{authornamehash}{ece07802b06bae2b49dff4563c8f06cb}
+      \strng{authorfullhash}{ece07802b06bae2b49dff4563c8f06cb}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Andragogika}
+      \field{number}{3}
+      \field{title}{Kokybi{š}ko mokykl{ų} vadov{ų} kompetencij{ų} ugdymo komponent{ų} projektavimas suaugusi{ų}j{ų} {š}vietimo paslaug{ų} optimizavimo kontekste}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{82\bibrangedash 104}
+      \range{pages}{23}
+    \endentry
+    \entry{shpitzer_2019}{misc}{}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{title}{Nacionalinės paramos tarnybos - Lietuva}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://ec.europa.eu/epale/lt/nss/national-support-services-lithuania
+      \endverb
+      \verb{url}
+      \verb https://ec.europa.eu/epale/lt/nss/national-support-services-lithuania
+      \endverb
+    \endentry
+    \entry{pocius2003ilgalaikio}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=8638128f94d35e56d60f699917c0aa3a}{%
+           family={Pocius},
+           familyi={P\bibinitperiod},
+           given={Ar{ū}nas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f92b782637c030151f877b3e732d859e}{%
+           family={Okunevi{č}i{ū}t{ė}-Neverauskien{ė}},
+           familyi={O\bibinithyphendelim N\bibinitperiod},
+           given={Laima},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1dec831fa9e3b97198793750c8abda08}
+      \strng{fullhash}{1dec831fa9e3b97198793750c8abda08}
+      \strng{bibnamehash}{1dec831fa9e3b97198793750c8abda08}
+      \strng{authorbibnamehash}{1dec831fa9e3b97198793750c8abda08}
+      \strng{authornamehash}{1dec831fa9e3b97198793750c8abda08}
+      \strng{authorfullhash}{1dec831fa9e3b97198793750c8abda08}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Filosofija. Sociologija}
+      \field{number}{1}
+      \field{title}{Ilgalaikio nedarbo problema Lietuvoje}
+      \field{year}{2003}
+      \true{nocite}
+      \field{pages}{43\bibrangedash 48}
+      \range{pages}{6}
+    \endentry
+    \entry{Rekomendacija2018}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=23f74708b9b5ad60ed283492e7602c7f}{%
+           family={Rekomendacija},
+           familyi={R\bibinitperiod},
+           given={Tarybos},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{23f74708b9b5ad60ed283492e7602c7f}
+      \strng{fullhash}{23f74708b9b5ad60ed283492e7602c7f}
+      \strng{bibnamehash}{23f74708b9b5ad60ed283492e7602c7f}
+      \strng{authorbibnamehash}{23f74708b9b5ad60ed283492e7602c7f}
+      \strng{authornamehash}{23f74708b9b5ad60ed283492e7602c7f}
+      \strng{authorfullhash}{23f74708b9b5ad60ed283492e7602c7f}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Komisijos tarnybų darbinis dokumentas. Šalies ataskaita. Lietuva 2018}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{vsuliakaiteneformaliojo}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=a83df9c98b36279fc6240e9693239af2}{%
+           family={{Š}uliakait{ė}},
+           familyi={Š\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=494e37db0a188d6abe7d748a00eb2da0}{%
+           family={Navikien{ė}},
+           familyi={N\bibinitperiod},
+           given={{Ž}},
+           giveni={Ž\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e5c672a3c30ab263d92c645c44da6f3}
+      \strng{fullhash}{7e5c672a3c30ab263d92c645c44da6f3}
+      \strng{bibnamehash}{7e5c672a3c30ab263d92c645c44da6f3}
+      \strng{authorbibnamehash}{7e5c672a3c30ab263d92c645c44da6f3}
+      \strng{authornamehash}{7e5c672a3c30ab263d92c645c44da6f3}
+      \strng{authorfullhash}{7e5c672a3c30ab263d92c645c44da6f3}
+      \field{sortinit}{Š}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NEFORMALIOJO SUAUGUSI{Ų}J{Ų} MOKYMOSI SAMPRAT{Ų} ANALIZ{Ė} MOKYMOSI VIS{Ą} GYVENIM{Ą} KONTEKSTE}
+      \true{nocite}
+    \endentry
+    \entry{teresevivciene2006tyrimo}{misc}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=ddafbd5d46123b908074fac1a5d32051}{%
+           family={Teresevi{č}ien{ė}},
+           familyi={T\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8d4cfc0f2bd4450816fa7032a0300f77}{%
+           family={Zuzevi{č}i{ū}t{ė}},
+           familyi={Z\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0a56bedcd87abf1327a5b23ad2eb3efb}{%
+           family={Kuncaitis},
+           familyi={K\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0cdcd5773f63d681bac30a998f4b3b2a}{%
+           family={Rutkien{ė}},
+           familyi={R\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Kaunas}%
+      }
+      \strng{namehash}{0379c7141efdba1f9a07d208f26db76b}
+      \strng{fullhash}{ff96f84f7d6992baf0c5b43a8e5903ad}
+      \strng{bibnamehash}{ff96f84f7d6992baf0c5b43a8e5903ad}
+      \strng{authorbibnamehash}{ff96f84f7d6992baf0c5b43a8e5903ad}
+      \strng{authornamehash}{0379c7141efdba1f9a07d208f26db76b}
+      \strng{authorfullhash}{ff96f84f7d6992baf0c5b43a8e5903ad}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tyrimo „Suaugusi{ų}j{ų} mokymasis Lietuvoje: apr{ė}ptis, poreikiai ir pasi{ū}la “ataskaita:[rankra{š}tis]}
+      \field{year}{2006}
+      \true{nocite}
+    \endentry
+    \entry{Zablacke2015}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=97d76f9bbdbade2937b26c70a68783b6}{%
+           family={Zablackė},
+           familyi={Z\bibinitperiod},
+           given={Rima},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=02e61d0006563e70a0bbaa81af3e81ae}{%
+           family={Vanagaitė},
+           familyi={V\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{27bca579a6981303ce028d94e1de9734}
+      \strng{fullhash}{27bca579a6981303ce028d94e1de9734}
+      \strng{bibnamehash}{27bca579a6981303ce028d94e1de9734}
+      \strng{authorbibnamehash}{27bca579a6981303ce028d94e1de9734}
+      \strng{authornamehash}{27bca579a6981303ce028d94e1de9734}
+      \strng{authorfullhash}{27bca579a6981303ce028d94e1de9734}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{„Suaugusiųjų mokymasis: kiek mokosi, ką moka, ar turi galimybių mokytis?“}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
